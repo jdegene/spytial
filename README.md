@@ -1,2 +1,2 @@
 # spytial
-A spatial Python framework for timeseries calculations
+A spatial Python framework for timeseries analyses
